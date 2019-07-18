@@ -3,9 +3,9 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "market.stalcraft.app"
     versionCode = "10"
-    version     = "1.1.0">
+    version     = "1.2.0">
 
-<name>ТЕСТ. stalcraft-market</name>
+<name>ТЕСТ. Market</name>
 
 <description>
     Stalcraft Market - Свободная торговая площадка.
@@ -34,7 +34,7 @@
 <preference name='WindowsToastCapable' value='true' />
 
 <preference name="SplashMaintainAspectRatio" value="true" />
-<preference name="SplashScreenSpinnerColor" value="#007BFF" />
+<preference name="SplashScreenSpinnerColor" value="#0079FF" />
 
 
 <platform name="android">
